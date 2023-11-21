@@ -51,4 +51,8 @@ align-items: center;
     height: 36px;
     flex-shrink: 0;
 }
+.logo3{
+ display: flex;
+ margin-left: 900px;
+}
 
