@@ -38,4 +38,17 @@ line-height: 100%; /* 12px */
 text-transform: capitalize;
 }
 
+.fila{
+display: flex;
+width: 1500px;
+padding: 30px 127px;
+justify-content: space-between;
+align-items: center;
+}
+
+.logo img{
+    width: 192px;
+    height: 36px;
+    flex-shrink: 0;
+}
 
